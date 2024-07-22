@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adithya719
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning ReactJS
+- 👀 AIML Enthusiast
+  
 
 <!---
 Adithya719/Adithya719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
